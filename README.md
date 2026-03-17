@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Luciano Ventura Monegatto
 
-<!--
-**Lvmonegatto/Lvmonegatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciência da Computação  
+💻 Desenvolvedor em formação  
+📍 São Paulo - Brasil  
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias que utilizo
+- Python
+- C
+- React Native
+- Expo
+- Supabase
+- SQL
+- Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contato
+- LinkedIn:(https://www.linkedin.com/in/luciano-ventura-monegatto-128127348/)
+- Email: (lucianomonegatto@gmail.com)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lvmonegatto&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lvmonegatto&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Lvmonegatto&theme=tokyonight)](https://git.io/streak-stats)
