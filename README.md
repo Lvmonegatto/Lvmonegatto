@@ -86,7 +86,7 @@ Me chamo Luciano Ventura Monegatto, tenho 21 anos e sou natural de São Paulo. S
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Lvmonegatto&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Lvmonegatto&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br](https://github-readme-stats.vercel.app/api?username=Lvmonegatto&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_bust=1" 
   />
 
 <img 
