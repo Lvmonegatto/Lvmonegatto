@@ -43,5 +43,3 @@ Tenho 21 anos, sou natural de São Paulo e estudante de Ciência da Computação
 </p>
 <br/>
 <br/>
-
-📫 Vamos conversar? LinkedIn
