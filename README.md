@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Tenho 21 anos, sou natural de São Paulo e estudante de Ciência da Computação no Centro Universitário FEI. Venho construindo experiência prática em desenvolvimento Full Stack através de projetos acadêmicos e pessoais, trabalhando com Java, Python, JavaScript, TypeScript, React, Angular, Next.js, Node.js, Spring Boot e SQL. Busco uma oportunidade de estágio para aplicar e aprofundar esses conhecimentos em um ambiente profissional, crescendo em direção a posições de maior complexidade técnica.
+Tenho 22 anos, sou natural de São Paulo e estudante de Ciência da Computação no Centro Universitário FEI. Venho construindo experiência prática em desenvolvimento Full Stack através de projetos acadêmicos e pessoais, trabalhando com Java, Python, JavaScript, TypeScript, React, Angular, Next.js, Node.js, Spring Boot e SQL. Busco uma oportunidade de estágio para aplicar e aprofundar esses conhecimentos em um ambiente profissional, crescendo em direção a posições de maior complexidade técnica.
 
 
 🤖 Linguagens e Tecnologias
